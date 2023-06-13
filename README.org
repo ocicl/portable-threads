@@ -1,0 +1,10 @@
+* portable-threads
+
+Portable threads API for Common Lisp (from GBBopen project)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/binghe/portable-threads.git   |
+| commit  | ffb8830  |
+| systems | portable-threads |
+|---------+-------------------------------------------|
+
